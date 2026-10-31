@@ -1,1 +1,1 @@
-# tamil-tv-addon
+# Stremio-tamil-tv-addon
