@@ -1,0 +1,12 @@
+{
+  "meta": {
+    "id": "tv_ch_17_natgeo",
+    "type": "movie",
+    "name": "Nat_Geo",
+    "posterShape": "poster",
+    "description": "Live TV stream for Nat_Geo",
+    "behaviorHints": {
+      "defaultVideoId": "tv_ch_17_natgeo"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "streams": [
+    {
+      "name": "Live TV",
+      "title": "Polimer (HLS Live)",
+      "url": "https://cdn.pishow.tv/ott/live/1241/master.m3u8",
+      "behaviorHints": {
+        "notWebReady": false
+      }
+    }
+  ]
+}

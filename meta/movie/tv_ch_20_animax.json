@@ -1,0 +1,12 @@
+{
+  "meta": {
+    "id": "tv_ch_20_animax",
+    "type": "movie",
+    "name": "Animax",
+    "posterShape": "poster",
+    "description": "Live TV stream for Animax",
+    "behaviorHints": {
+      "defaultVideoId": "tv_ch_20_animax"
+    }
+  }
+}

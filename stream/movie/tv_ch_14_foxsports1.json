@@ -1,0 +1,12 @@
+{
+  "streams": [
+    {
+      "name": "Live TV",
+      "title": "FOX_SPORTS_1 (HLS Live)",
+      "url": "http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8",
+      "behaviorHints": {
+        "notWebReady": false
+      }
+    }
+  ]
+}

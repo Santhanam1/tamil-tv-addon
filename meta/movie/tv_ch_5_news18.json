@@ -1,0 +1,12 @@
+{
+  "meta": {
+    "id": "tv_ch_5_news18",
+    "type": "movie",
+    "name": "News18",
+    "posterShape": "poster",
+    "description": "Live TV stream for News18",
+    "behaviorHints": {
+      "defaultVideoId": "tv_ch_5_news18"
+    }
+  }
+}

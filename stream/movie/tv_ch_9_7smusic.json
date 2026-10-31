@@ -1,0 +1,12 @@
+{
+  "streams": [
+    {
+      "name": "Live TV",
+      "title": "7Smusic (HLS Live)",
+      "url": "https://cdn.pishow.tv/ott/live/1257/master.m3u8",
+      "behaviorHints": {
+        "notWebReady": false
+      }
+    }
+  ]
+}

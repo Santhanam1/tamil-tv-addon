@@ -1,0 +1,12 @@
+{
+  "meta": {
+    "id": "tv_ch_13_skysports",
+    "type": "movie",
+    "name": "Sky_sports",
+    "posterShape": "poster",
+    "description": "Live TV stream for Sky_sports",
+    "behaviorHints": {
+      "defaultVideoId": "tv_ch_13_skysports"
+    }
+  }
+}

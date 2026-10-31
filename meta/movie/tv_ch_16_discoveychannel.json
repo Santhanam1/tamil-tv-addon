@@ -1,0 +1,12 @@
+{
+  "meta": {
+    "id": "tv_ch_16_discoveychannel",
+    "type": "movie",
+    "name": "discovey_channel",
+    "posterShape": "poster",
+    "description": "Live TV stream for discovey_channel",
+    "behaviorHints": {
+      "defaultVideoId": "tv_ch_16_discoveychannel"
+    }
+  }
+}

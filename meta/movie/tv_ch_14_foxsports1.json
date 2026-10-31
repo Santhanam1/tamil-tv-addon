@@ -1,0 +1,12 @@
+{
+  "meta": {
+    "id": "tv_ch_14_foxsports1",
+    "type": "movie",
+    "name": "FOX_SPORTS_1",
+    "posterShape": "poster",
+    "description": "Live TV stream for FOX_SPORTS_1",
+    "behaviorHints": {
+      "defaultVideoId": "tv_ch_14_foxsports1"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "meta": {
+    "id": "tv_ch_2_polimer",
+    "type": "movie",
+    "name": "Polimer",
+    "posterShape": "poster",
+    "description": "Live TV stream for Polimer",
+    "behaviorHints": {
+      "defaultVideoId": "tv_ch_2_polimer"
+    }
+  }
+}

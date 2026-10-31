@@ -1,0 +1,12 @@
+{
+  "meta": {
+    "id": "tv_ch_10_musicindia",
+    "type": "movie",
+    "name": "MUSICINDIA",
+    "posterShape": "poster",
+    "description": "Live TV stream for MUSICINDIA",
+    "behaviorHints": {
+      "defaultVideoId": "tv_ch_10_musicindia"
+    }
+  }
+}

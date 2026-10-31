@@ -10,93 +10,201 @@
       }
     },
     {
-      "id": "tv_ch_2_murasu",
-      "type": "movie",
-      "name": "murasu",
-      "posterShape": "poster",
-      "behaviorHints": {
-        "defaultVideoId": "tv_ch_2_murasu"
-      }
-    },
-    {
-      "id": "tv_ch_3_colorstamil",
-      "type": "movie",
-      "name": "colorstamil",
-      "posterShape": "poster",
-      "behaviorHints": {
-        "defaultVideoId": "tv_ch_3_colorstamil"
-      }
-    },
-    {
-      "id": "tv_ch_4_news18",
-      "type": "movie",
-      "name": "News18",
-      "posterShape": "poster",
-      "behaviorHints": {
-        "defaultVideoId": "tv_ch_4_news18"
-      }
-    },
-    {
-      "id": "tv_ch_5_rajmusix",
-      "type": "movie",
-      "name": "Raj_Musix",
-      "posterShape": "poster",
-      "behaviorHints": {
-        "defaultVideoId": "tv_ch_5_rajmusix"
-      }
-    },
-    {
-      "id": "tv_ch_6_ddtamil",
-      "type": "movie",
-      "name": "DDtamil",
-      "posterShape": "poster",
-      "behaviorHints": {
-        "defaultVideoId": "tv_ch_6_ddtamil"
-      }
-    },
-    {
-      "id": "tv_ch_7_starvijay",
-      "type": "movie",
-      "name": "starvijay",
-      "posterShape": "poster",
-      "behaviorHints": {
-        "defaultVideoId": "tv_ch_7_starvijay"
-      }
-    },
-    {
-      "id": "tv_ch_8_7smusic",
-      "type": "movie",
-      "name": "7Smusic",
-      "posterShape": "poster",
-      "behaviorHints": {
-        "defaultVideoId": "tv_ch_8_7smusic"
-      }
-    },
-    {
-      "id": "tv_ch_9_musicindia",
-      "type": "movie",
-      "name": "MUSICINDIA",
-      "posterShape": "poster",
-      "behaviorHints": {
-        "defaultVideoId": "tv_ch_9_musicindia"
-      }
-    },
-    {
-      "id": "tv_ch_10_bbcearth",
-      "type": "movie",
-      "name": "BBCEarth",
-      "posterShape": "poster",
-      "behaviorHints": {
-        "defaultVideoId": "tv_ch_10_bbcearth"
-      }
-    },
-    {
-      "id": "tv_ch_11_polimer",
+      "id": "tv_ch_2_polimer",
       "type": "movie",
       "name": "Polimer",
       "posterShape": "poster",
       "behaviorHints": {
-        "defaultVideoId": "tv_ch_11_polimer"
+        "defaultVideoId": "tv_ch_2_polimer"
+      }
+    },
+    {
+      "id": "tv_ch_3_murasu",
+      "type": "movie",
+      "name": "murasu",
+      "posterShape": "poster",
+      "behaviorHints": {
+        "defaultVideoId": "tv_ch_3_murasu"
+      }
+    },
+    {
+      "id": "tv_ch_4_colorstamil",
+      "type": "movie",
+      "name": "colorstamil",
+      "posterShape": "poster",
+      "behaviorHints": {
+        "defaultVideoId": "tv_ch_4_colorstamil"
+      }
+    },
+    {
+      "id": "tv_ch_5_news18",
+      "type": "movie",
+      "name": "News18",
+      "posterShape": "poster",
+      "behaviorHints": {
+        "defaultVideoId": "tv_ch_5_news18"
+      }
+    },
+    {
+      "id": "tv_ch_6_rajmusix",
+      "type": "movie",
+      "name": "Raj_Musix",
+      "posterShape": "poster",
+      "behaviorHints": {
+        "defaultVideoId": "tv_ch_6_rajmusix"
+      }
+    },
+    {
+      "id": "tv_ch_7_ddtamil",
+      "type": "movie",
+      "name": "DDtamil",
+      "posterShape": "poster",
+      "behaviorHints": {
+        "defaultVideoId": "tv_ch_7_ddtamil"
+      }
+    },
+    {
+      "id": "tv_ch_8_starvijay",
+      "type": "movie",
+      "name": "starvijay",
+      "posterShape": "poster",
+      "behaviorHints": {
+        "defaultVideoId": "tv_ch_8_starvijay"
+      }
+    },
+    {
+      "id": "tv_ch_9_7smusic",
+      "type": "movie",
+      "name": "7Smusic",
+      "posterShape": "poster",
+      "behaviorHints": {
+        "defaultVideoId": "tv_ch_9_7smusic"
+      }
+    },
+    {
+      "id": "tv_ch_10_musicindia",
+      "type": "movie",
+      "name": "MUSICINDIA",
+      "posterShape": "poster",
+      "behaviorHints": {
+        "defaultVideoId": "tv_ch_10_musicindia"
+      }
+    },
+    {
+      "id": "tv_ch_11_bbcearth",
+      "type": "movie",
+      "name": "BBCEarth",
+      "posterShape": "poster",
+      "behaviorHints": {
+        "defaultVideoId": "tv_ch_11_bbcearth"
+      }
+    },
+    {
+      "id": "tv_ch_12_ddsports",
+      "type": "movie",
+      "name": "DD_Sports",
+      "posterShape": "poster",
+      "behaviorHints": {
+        "defaultVideoId": "tv_ch_12_ddsports"
+      }
+    },
+    {
+      "id": "tv_ch_13_skysports",
+      "type": "movie",
+      "name": "Sky_sports",
+      "posterShape": "poster",
+      "behaviorHints": {
+        "defaultVideoId": "tv_ch_13_skysports"
+      }
+    },
+    {
+      "id": "tv_ch_14_foxsports1",
+      "type": "movie",
+      "name": "FOX_SPORTS_1",
+      "posterShape": "poster",
+      "behaviorHints": {
+        "defaultVideoId": "tv_ch_14_foxsports1"
+      }
+    },
+    {
+      "id": "tv_ch_15_sportsnow",
+      "type": "movie",
+      "name": "Sports_now",
+      "posterShape": "poster",
+      "behaviorHints": {
+        "defaultVideoId": "tv_ch_15_sportsnow"
+      }
+    },
+    {
+      "id": "tv_ch_16_discoveychannel",
+      "type": "movie",
+      "name": "discovey_channel",
+      "posterShape": "poster",
+      "behaviorHints": {
+        "defaultVideoId": "tv_ch_16_discoveychannel"
+      }
+    },
+    {
+      "id": "tv_ch_17_natgeo",
+      "type": "movie",
+      "name": "Nat_Geo",
+      "posterShape": "poster",
+      "behaviorHints": {
+        "defaultVideoId": "tv_ch_17_natgeo"
+      }
+    },
+    {
+      "id": "tv_ch_18_disneyxd",
+      "type": "movie",
+      "name": "DisneyXD",
+      "posterShape": "poster",
+      "behaviorHints": {
+        "defaultVideoId": "tv_ch_18_disneyxd"
+      }
+    },
+    {
+      "id": "tv_ch_19_cartoonnetwork",
+      "type": "movie",
+      "name": "Cartoon_Network",
+      "posterShape": "poster",
+      "behaviorHints": {
+        "defaultVideoId": "tv_ch_19_cartoonnetwork"
+      }
+    },
+    {
+      "id": "tv_ch_20_animax",
+      "type": "movie",
+      "name": "Animax",
+      "posterShape": "poster",
+      "behaviorHints": {
+        "defaultVideoId": "tv_ch_20_animax"
+      }
+    },
+    {
+      "id": "tv_ch_21_nickelodeon",
+      "type": "movie",
+      "name": "Nickelodeon",
+      "posterShape": "poster",
+      "behaviorHints": {
+        "defaultVideoId": "tv_ch_21_nickelodeon"
+      }
+    },
+    {
+      "id": "tv_ch_22_toonami",
+      "type": "movie",
+      "name": "Toonami",
+      "posterShape": "poster",
+      "behaviorHints": {
+        "defaultVideoId": "tv_ch_22_toonami"
+      }
+    },
+    {
+      "id": "tv_ch_23_boomerang",
+      "type": "movie",
+      "name": "Boomerang",
+      "posterShape": "poster",
+      "behaviorHints": {
+        "defaultVideoId": "tv_ch_23_boomerang"
       }
     }
   ]

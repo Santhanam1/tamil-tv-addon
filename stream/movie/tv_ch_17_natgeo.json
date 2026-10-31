@@ -1,0 +1,12 @@
+{
+  "streams": [
+    {
+      "name": "Live TV",
+      "title": "Nat_Geo (HLS Live)",
+      "url": "http://15.204.246.24:8080/NatGeoHD/index.m3u8",
+      "behaviorHints": {
+        "notWebReady": false
+      }
+    }
+  ]
+}

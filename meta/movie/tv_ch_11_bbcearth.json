@@ -1,0 +1,12 @@
+{
+  "meta": {
+    "id": "tv_ch_11_bbcearth",
+    "type": "movie",
+    "name": "BBCEarth",
+    "posterShape": "poster",
+    "description": "Live TV stream for BBCEarth",
+    "behaviorHints": {
+      "defaultVideoId": "tv_ch_11_bbcearth"
+    }
+  }
+}

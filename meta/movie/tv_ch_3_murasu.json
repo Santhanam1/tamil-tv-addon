@@ -1,0 +1,12 @@
+{
+  "meta": {
+    "id": "tv_ch_3_murasu",
+    "type": "movie",
+    "name": "murasu",
+    "posterShape": "poster",
+    "description": "Live TV stream for murasu",
+    "behaviorHints": {
+      "defaultVideoId": "tv_ch_3_murasu"
+    }
+  }
+}

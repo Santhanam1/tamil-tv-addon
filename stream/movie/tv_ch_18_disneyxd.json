@@ -1,0 +1,12 @@
+{
+  "streams": [
+    {
+      "name": "Live TV",
+      "title": "DisneyXD (HLS Live)",
+      "url": "http://89.187.179.148:826/1368/gXwiagaXda/1672",
+      "behaviorHints": {
+        "notWebReady": false
+      }
+    }
+  ]
+}

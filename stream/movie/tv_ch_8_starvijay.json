@@ -1,0 +1,12 @@
+{
+  "streams": [
+    {
+      "name": "Live TV",
+      "title": "starvijay (HLS Live)",
+      "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starvijayuk.smil/playlist.m3u8",
+      "behaviorHints": {
+        "notWebReady": false
+      }
+    }
+  ]
+}

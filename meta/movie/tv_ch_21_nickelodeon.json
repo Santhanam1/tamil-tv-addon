@@ -1,0 +1,12 @@
+{
+  "meta": {
+    "id": "tv_ch_21_nickelodeon",
+    "type": "movie",
+    "name": "Nickelodeon",
+    "posterShape": "poster",
+    "description": "Live TV stream for Nickelodeon",
+    "behaviorHints": {
+      "defaultVideoId": "tv_ch_21_nickelodeon"
+    }
+  }
+}

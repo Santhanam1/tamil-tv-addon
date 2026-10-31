@@ -1,0 +1,12 @@
+{
+  "streams": [
+    {
+      "name": "Live TV",
+      "title": "Toonami (HLS Live)",
+      "url": "http://api.toonamiaftermath.com:3000/est/playlist.m3u8",
+      "behaviorHints": {
+        "notWebReady": false
+      }
+    }
+  ]
+}

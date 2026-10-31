@@ -1,0 +1,12 @@
+{
+  "meta": {
+    "id": "tv_ch_18_disneyxd",
+    "type": "movie",
+    "name": "DisneyXD",
+    "posterShape": "poster",
+    "description": "Live TV stream for DisneyXD",
+    "behaviorHints": {
+      "defaultVideoId": "tv_ch_18_disneyxd"
+    }
+  }
+}

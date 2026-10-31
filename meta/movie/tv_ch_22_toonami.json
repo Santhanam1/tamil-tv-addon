@@ -1,0 +1,12 @@
+{
+  "meta": {
+    "id": "tv_ch_22_toonami",
+    "type": "movie",
+    "name": "Toonami",
+    "posterShape": "poster",
+    "description": "Live TV stream for Toonami",
+    "behaviorHints": {
+      "defaultVideoId": "tv_ch_22_toonami"
+    }
+  }
+}

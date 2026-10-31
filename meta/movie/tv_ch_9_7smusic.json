@@ -1,0 +1,12 @@
+{
+  "meta": {
+    "id": "tv_ch_9_7smusic",
+    "type": "movie",
+    "name": "7Smusic",
+    "posterShape": "poster",
+    "description": "Live TV stream for 7Smusic",
+    "behaviorHints": {
+      "defaultVideoId": "tv_ch_9_7smusic"
+    }
+  }
+}

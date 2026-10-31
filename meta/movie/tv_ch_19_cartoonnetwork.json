@@ -1,0 +1,12 @@
+{
+  "meta": {
+    "id": "tv_ch_19_cartoonnetwork",
+    "type": "movie",
+    "name": "Cartoon_Network",
+    "posterShape": "poster",
+    "description": "Live TV stream for Cartoon_Network",
+    "behaviorHints": {
+      "defaultVideoId": "tv_ch_19_cartoonnetwork"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "meta": {
+    "id": "tv_ch_15_sportsnow",
+    "type": "movie",
+    "name": "Sports_now",
+    "posterShape": "poster",
+    "description": "Live TV stream for Sports_now",
+    "behaviorHints": {
+      "defaultVideoId": "tv_ch_15_sportsnow"
+    }
+  }
+}

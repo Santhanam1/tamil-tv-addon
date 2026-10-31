@@ -1,0 +1,12 @@
+{
+  "meta": {
+    "id": "tv_ch_12_ddsports",
+    "type": "movie",
+    "name": "DD_Sports",
+    "posterShape": "poster",
+    "description": "Live TV stream for DD_Sports",
+    "behaviorHints": {
+      "defaultVideoId": "tv_ch_12_ddsports"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "meta": {
+    "id": "tv_ch_23_boomerang",
+    "type": "movie",
+    "name": "Boomerang",
+    "posterShape": "poster",
+    "description": "Live TV stream for Boomerang",
+    "behaviorHints": {
+      "defaultVideoId": "tv_ch_23_boomerang"
+    }
+  }
+}

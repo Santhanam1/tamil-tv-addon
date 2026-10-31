@@ -1,0 +1,12 @@
+{
+  "streams": [
+    {
+      "name": "Live TV",
+      "title": "Boomerang (HLS Live)",
+      "url": "http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8",
+      "behaviorHints": {
+        "notWebReady": false
+      }
+    }
+  ]
+}
