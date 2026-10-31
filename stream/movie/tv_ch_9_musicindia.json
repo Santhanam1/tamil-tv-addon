@@ -1,0 +1,12 @@
+{
+  "streams": [
+    {
+      "name": "Live TV",
+      "title": "MUSICINDIA (HLS Live)",
+      "url": "https://streams.tangotv.in/MUSICINDIA/ORIGIN/index.m3u8",
+      "behaviorHints": {
+        "notWebReady": false
+      }
+    }
+  ]
+}

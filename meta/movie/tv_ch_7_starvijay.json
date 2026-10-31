@@ -1,0 +1,12 @@
+{
+  "meta": {
+    "id": "tv_ch_7_starvijay",
+    "type": "movie",
+    "name": "starvijay",
+    "posterShape": "poster",
+    "description": "Live TV stream for starvijay",
+    "behaviorHints": {
+      "defaultVideoId": "tv_ch_7_starvijay"
+    }
+  }
+}

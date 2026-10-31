@@ -1,0 +1,12 @@
+{
+  "meta": {
+    "id": "tv_ch_5_rajmusix",
+    "type": "movie",
+    "name": "Raj_Musix",
+    "posterShape": "poster",
+    "description": "Live TV stream for Raj_Musix",
+    "behaviorHints": {
+      "defaultVideoId": "tv_ch_5_rajmusix"
+    }
+  }
+}

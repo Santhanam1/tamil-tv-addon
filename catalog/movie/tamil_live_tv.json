@@ -1,0 +1,103 @@
+{
+  "metas": [
+    {
+      "id": "tv_ch_1_zeetamil",
+      "type": "movie",
+      "name": "Zee_Tamil",
+      "posterShape": "poster",
+      "behaviorHints": {
+        "defaultVideoId": "tv_ch_1_zeetamil"
+      }
+    },
+    {
+      "id": "tv_ch_2_murasu",
+      "type": "movie",
+      "name": "murasu",
+      "posterShape": "poster",
+      "behaviorHints": {
+        "defaultVideoId": "tv_ch_2_murasu"
+      }
+    },
+    {
+      "id": "tv_ch_3_colorstamil",
+      "type": "movie",
+      "name": "colorstamil",
+      "posterShape": "poster",
+      "behaviorHints": {
+        "defaultVideoId": "tv_ch_3_colorstamil"
+      }
+    },
+    {
+      "id": "tv_ch_4_news18",
+      "type": "movie",
+      "name": "News18",
+      "posterShape": "poster",
+      "behaviorHints": {
+        "defaultVideoId": "tv_ch_4_news18"
+      }
+    },
+    {
+      "id": "tv_ch_5_rajmusix",
+      "type": "movie",
+      "name": "Raj_Musix",
+      "posterShape": "poster",
+      "behaviorHints": {
+        "defaultVideoId": "tv_ch_5_rajmusix"
+      }
+    },
+    {
+      "id": "tv_ch_6_ddtamil",
+      "type": "movie",
+      "name": "DDtamil",
+      "posterShape": "poster",
+      "behaviorHints": {
+        "defaultVideoId": "tv_ch_6_ddtamil"
+      }
+    },
+    {
+      "id": "tv_ch_7_starvijay",
+      "type": "movie",
+      "name": "starvijay",
+      "posterShape": "poster",
+      "behaviorHints": {
+        "defaultVideoId": "tv_ch_7_starvijay"
+      }
+    },
+    {
+      "id": "tv_ch_8_7smusic",
+      "type": "movie",
+      "name": "7Smusic",
+      "posterShape": "poster",
+      "behaviorHints": {
+        "defaultVideoId": "tv_ch_8_7smusic"
+      }
+    },
+    {
+      "id": "tv_ch_9_musicindia",
+      "type": "movie",
+      "name": "MUSICINDIA",
+      "posterShape": "poster",
+      "behaviorHints": {
+        "defaultVideoId": "tv_ch_9_musicindia"
+      }
+    },
+    {
+      "id": "tv_ch_10_bbcearth",
+      "type": "movie",
+      "name": "BBCEarth",
+      "posterShape": "poster",
+      "behaviorHints": {
+        "defaultVideoId": "tv_ch_10_bbcearth"
+      }
+    },
+    {
+      "id": "tv_ch_11_polimer",
+      "type": "movie",
+      "name": "Polimer",
+      "posterShape": "poster",
+      "behaviorHints": {
+        "defaultVideoId": "tv_ch_11_polimer"
+      }
+    }
+  ]
+}

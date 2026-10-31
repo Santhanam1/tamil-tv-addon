@@ -1,0 +1,12 @@
+{
+  "meta": {
+    "id": "tv_ch_6_ddtamil",
+    "type": "movie",
+    "name": "DDtamil",
+    "posterShape": "poster",
+    "description": "Live TV stream for DDtamil",
+    "behaviorHints": {
+      "defaultVideoId": "tv_ch_6_ddtamil"
+    }
+  }
+}

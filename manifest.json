@@ -1,0 +1,24 @@
+{
+  "id": "org.tamiltv.staticaddon",
+  "version": "1.0.0",
+  "name": "Tamil Live TV",
+  "description": "Static Live TV Addon generated from TV.txt",
+  "resources": [
+    "catalog",
+    "meta",
+    "stream"
+  ],
+  "types": [
+    "movie"
+  ],
+  "idPrefixes": [
+    "tv_ch_"
+  ],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "tamil_live_tv",
+      "name": "Tamil Live TV"
+    }
+  ]
+}

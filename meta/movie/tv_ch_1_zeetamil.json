@@ -1,0 +1,12 @@
+{
+  "meta": {
+    "id": "tv_ch_1_zeetamil",
+    "type": "movie",
+    "name": "Zee_Tamil",
+    "posterShape": "poster",
+    "description": "Live TV stream for Zee_Tamil",
+    "behaviorHints": {
+      "defaultVideoId": "tv_ch_1_zeetamil"
+    }
+  }
+}

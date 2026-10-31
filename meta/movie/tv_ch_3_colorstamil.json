@@ -1,0 +1,12 @@
+{
+  "meta": {
+    "id": "tv_ch_3_colorstamil",
+    "type": "movie",
+    "name": "colorstamil",
+    "posterShape": "poster",
+    "description": "Live TV stream for colorstamil",
+    "behaviorHints": {
+      "defaultVideoId": "tv_ch_3_colorstamil"
+    }
+  }
+}
